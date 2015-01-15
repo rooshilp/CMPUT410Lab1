@@ -1,5 +1,9 @@
 # CMPUT410Lab1
-Cmput 410 Lec B1 Lab H02
+Cmput 410
+Lec B1 
+Dr. Abram Hindle
+Lab H02
+Ali Sajedi Badashian
 
 Lab 1
 
